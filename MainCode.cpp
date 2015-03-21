@@ -15,3 +15,4 @@ public:
         n=7;
         index=3;
     }
+    void responseYes(int i, int &n , string characters[][5], int blots[], string quality[])
