@@ -1,0 +1,91 @@
+place&batting style&bowling style&role&current&Married to an Australian&party&spouse&death&gender&category&pob&TV&spouse&place&national award&tv show judge&from mukherjee&
+Maharashtra&Right-handed batsman&Right-arm Spin bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Indore&Right-handed batsman&Right-arm Spin Bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Kolkata&Left-handed batsman&Right-arm Fast Bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Delhi&Right-handed batsman&Right-arm Spin Bowler&Batsman&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Hyderabad&Right-handed batsman&Right-arm Seam Bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Ranchi&Right-handed batsman&Right-arm Seam Bowler&Batsman&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Maharashtra&Right-handed batsman&Right-arm Seam Bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Hyderabad&Right-handed batsman&Right-arm Spin Bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Chennai&Right-handed batsman&Right-arm Spin Bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Uttar Pradesh&Left-handed batsman&Right-arm Spin bowler&Batsman&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Delhi&Left-handed batsman&Right-arm Spin Bowler&Batsman&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Delhi&Right-handed batsman&Right-arm Seam Bowler&Batsman&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Delhi&Left-handed batsman&Right-arm Spin Bowler&Batsman&playing&Married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Punjab&Right-handed batsman&Right-arm Seam Bowler&Batsman&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Maharashtra&Right-handed batsman&Right-arm Spin Bowler&Batsman&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Maharashtra&Right-handed batsman&Right-arm Seam Bowler&Batsman&playing&Not married to an Australian& null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Karnataka&Right-handed batsman&Right-arm Spin Bowler&Bowler&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Punjab&Right-handed batsman&Right-arm Spin Bowler&Bowler&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Chennai&Right-handed batsman&Right-arm Spin Bowler&All rounder&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Maharashtra&Right-handed batsman&Right-arm Fast Bowler&Bowler&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Karnataka&Right-handed batsman&Right-arm Fast Bowler&Bowler&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Madhya Pradesh&Right-handed batsman&Right-arm Fast Bowler&Bowler&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Uttar Pradesh&Right-handed batsman&Right-arm Fast Bowler&Bowler&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Uttar Pradesh&Right-handed batsman&Right-arm Fast Bowler&Bowler&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Delhi&Right-handed batsman&Right-arm Fast Bowler&Bowler&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Haryana&Right-handed batsman&Right-arm Fast Bowler&Bowler&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&                           
+Kerala&Right-handed batsman&Right-arm Fast Bowler&Bowler&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Punjab&Left-handed batsman&Left-arm Spin Bowler&All rounder&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Punjab&Right-handed batsman&Right-arm Fast Bowler&All rounder&not playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+Gujarat&Left-handed batsman&Left-arm Spin Bowler&All rounder&playing&Not married to an Australian&null&null&null&Male&a cricketer&null&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&alive&male&a politician&Gujarat&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&not married&alive&male&a politician&Delhi&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&not married&alive&female&a politician&Italy&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&alive&male&a politician&Pakistan&null&null&null&null&null&null&
+null&null&null&null&null&null&AAP&married&alive&male&a politician&Haryana&null&null&null&null&null&null&
+null&null&null&null&null&null&AIADMK&married&alive&female&a politician&Karnataka&null&null&null&null&null&null&
+null&null&null&null&null&null&SP&married&alive&male&a politician&Madhya Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&alive&female&a politician&Delhi&not worked in soaps&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&alive&male&a politician&Madhya Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&BSP&not married&alive&female&a politician&Delhi&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&alive&male&a politician&Tamil Nadu&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&dead&female&a politician&Uttar Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&dead&male&a politician&Mumbai&null&null&null&null&null&null&
+null&null&null&null&null&null&TMC&not married&alive&female&a politician&Kolkata&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&not married&dead&male&a politician&Andhra Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&TDP&married&alive&male&a politician&Andhra Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&dead&male&a politician&Uttar Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&alive&male&a politician&Madhya Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&alive&female&a politician&Delhi&worked in soaps&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&alive&male&a politician&Uttar Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&alive&male&a politician&West Bengal&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&dead&male&a politician&Bihar&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&alive&female&a politician&Maharashtra&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&dead&male&a politician&Uttar Pradesh&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&dead&male&a politician&Telangana&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&alive&male&a politician&Delhi&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&not married&alive&male&a politician&Maharashtra&null&null&null&null&null&null&
+null&null&null&null&null&null&JDU&married&alive&male&a politician&Bihar&null&null&null&null&null&null&
+null&null&null&null&null&null&LOJPA&not married&alive&male&a politician&Bihar&null&null&null&null&null&null&
+null&null&null&null&null&null&BJP&married&alive&male&a politician&Bihar&null&null&null&null&null&null&
+null&null&null&null&null&null&INC&married&dead&male&a politician&Gujarat&null&null&null&null&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&not married&Indore&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Delhi&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&not married&Hong Kong&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&not married&Copenhagen, Denmark&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&married&Mumbai&not won a national award&not judged a show&not related to mukherjee family&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&not married&Delhi&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Amritsar&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&not married&Jamshedpur&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&married&Mumbai&not won a national award&judged a show&not related to mukherjee family&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&not married&Ayodhya&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Mumbai&not won a national award&not judged a show&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&not married&Mumbai&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&married&Mumbai&not won a national award&judged a show&related to mukherjee family&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&married&Mumbai&not won a national award&not judged a show&related to mukherjee family&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&married&Mangalore&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&not married&Mumbai&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Allahabad&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Delhi&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&not married&Tamil Nadu&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Mumbai&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Mumbai&not won a national award&judged a show&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&not married&Himachal Pradesh&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Rajasthan&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&not married&Delhi&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&not married&Tamil Nadu&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&married&Kerala&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actress&null&null&married&Tamil Nadu&not won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Chennai&won a national award&null&null&
+null&null&null&null&null&null&null&null&null&null&an actor&null&null&married&Haryana&won a national award&null&null&
