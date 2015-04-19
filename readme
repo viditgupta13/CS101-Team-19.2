@@ -1,0 +1,31 @@
+Year: 2015
+
+Course: CS101
+
+Group number: 206
+
+Project Title: Akinator
+
+Member1 Name: Dharamveer Kumar    Roll Number: 140010023
+Member2 Name: Vidit Gupta         Roll Number: 140110078
+
+Member3 Name: Nitya Singh         Roll Number: 140010028
+Member4 Name: Dharamveer Kumar    Roll Number: 140010043
+YouTube Video Link: https://www.youtube.com/watch?feature=player_detailpage&v=IH7kGmKO7Ec
+Github Link: https://github.com/viditgupta13/CS101-Team-19.2
+
+Instructions:
+1. Setup SimpleCodeBlocks
+a) Download the setup file from http://www.cse.iitb.ac.in/~ranade/simplecpp/
+b) Run the setup file.
+c) Follow the instructions onscreen
+
+2. Setup Borland BGI Graphics
+a)  First Download WinBGIm from http://winbgim.codecutter.org/. Extract it 
+b)  Copy graphics.h and winbgim.h files in include folder of your compiler directory
+c)  Copy libbgi.a to lib folder of your compiler directory
+d)  In code::blocks open Settings >> Compiler and debugger >>linker settings click Add button in link libraries part and browse and select libbgi.a file
+e)  In right part (ie. other linker options) paste commands -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+f)  Click Ok
+
+3. Open Simple Code Blocks(SimpleCPP). Navigate to source code directory and open source code. Run and compile it.
