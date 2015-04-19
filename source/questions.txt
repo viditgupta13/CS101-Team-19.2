@@ -1,0 +1,19 @@
+SI.&Question&YESCODE&
+1.&Is the person from &5&
+2.&Is the person &1&
+3.&Is the person &6&
+4.&Is this person only a streamline &2&
+5.&Is the person currently &3&
+6.&Is the person &0&
+7.&Is the person a member of &10&
+8.&Is the person &12&
+9.&Is the person &8&
+10.&Is the person &9&
+11.&Is the person &16&
+12.&Is the person from &13&
+13.&Has she &0&
+14.&Is the person &15&
+15.&Is the person from &17&
+16.&Has the person &14&
+17.&Has the person &18&
+18.&Is she &0&
